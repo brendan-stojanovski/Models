@@ -1,6 +1,10 @@
 # Models
 
-Collection of finance and data analytics projects focused on valuation, modeling, and investment analysis.
+This repository contains a collection of finance and data analytics projects that I have been working on. Many of these projects started from my own curiosity as an investor and aspiring finance professional, and my desire to better understand the companies, industries, and markets that I follow.
+
+Some were created to sharpen my modeling skills, explore new tools, or apply concepts from finance, economics, and data analytics to real-world problems. Others began with an investment idea, valuation question, or business problem that I wanted to investigate further.
+
+Please feel free to check out some of my work below.
 
 ## Featured Projects
 
