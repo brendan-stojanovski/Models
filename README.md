@@ -15,3 +15,14 @@ Built a 5-year discounted cash flow valuation model for McDonald's to estimate i
 - Football field valuation chart
 - Sensitivity analysis
 - Equity value and implied share price analysis
+
+### Alphabet (GOOGL) DCF Valuation
+Built a 5-year DCF to estimate the intrinsic value of Alphabet Inc using an unlevered free cash flow framework.
+
+#### Features
+- Revenue forecasting
+- EBIT margin assumptions
+- UFCF calculation
+- WACC estimation
+- Terminal value analysis
+- Scenario analysis (Bear/Base/Bull)
