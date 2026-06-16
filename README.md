@@ -28,3 +28,17 @@ Built a 5-year DCF to estimate the intrinsic value of Alphabet Inc using an unle
 - WACC estimation
 - Terminal value analysis
 - Scenario analysis (Bear/Base/Bull)
+
+### UnitedHealth Group (UNH) DCF Valuation
+Built a 5-year discounted cash flow valuation model to estimate the intrinsic value of UnitedHealth Group using an unlevered free cash flow framework.
+
+#### Features
+- Revenue forecasting
+- EBIT margin projections
+- UFCF calculation
+- WACC estimation
+- Treasury stock method dilution analysis
+- Comparable company analysis
+- Terminal value analysis
+- Scenario analysis (Bear/Base/Bull)
+- Equity value and implied share price analysis
